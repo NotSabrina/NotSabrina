@@ -8,6 +8,15 @@
   <img src="tk-svgrepo-com.svg" class="tk" alt="tkinter" width="150"/>
   <img src="numpy-svgrepo-com.svg" class="np" alt="numpy" width="150"/>
 </p>
-![](https://komarev.com/ghpvc/?username=NotSabrina)
+<p align="left" margin="2px">
+  <a href="https://github.com/NotSabrina">
+    <img src="https://img.shields.io/github/followers/NotSabrina?label=Follow&style=social" width="100"/>
+  </a>
+  <a href="https://github.com/NotSabrina">
+    <img src="https://komarev.com/ghpvc/?username=NotSabrina&color=brightgreen" width="100"/>
+  </a>
+</p>
+
+
 
 
