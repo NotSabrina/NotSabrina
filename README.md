@@ -7,6 +7,7 @@
   <img src="opencv-svgrepo-com.svg" class="cv2" alt="opencv" width="150"/>
   <img src="tk-svgrepo-com.svg" class="tk" alt="tkinter" width="150"/>
   <img src="numpy-svgrepo-com.svg" class="np" alt="numpy" width="150"/>
+  <img src="pytorch-svgrepo-com.svg" class="pt" alt="pytorch" width="150"/>
 </p>
 <p align="left" margin="2px">
   <a href="https://github.com/NotSabrina">
